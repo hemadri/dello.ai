@@ -12,7 +12,7 @@ export default function Footer() {
               <span className="ml-2 text-xl font-bold text-white">dello.ai</span>
             </div>
             <p className="mt-4 text-gray-300">
-              Building the future of AI applications, one API call at a time.
+              Building the future of AI Call Centers.
             </p>
           </div>
           

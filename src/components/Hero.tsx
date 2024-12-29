@@ -10,7 +10,7 @@ export default function Hero() {
             AI-driven Call Center
           </h1>
           <p className="mt-6 text-lg leading-8 text-gray-300">
-           dello.ai offers a revolutionary AI-driven call center solution tailored for the GCC and scalable globally, with advanced multilingual support and seamless CRM integration
+           dello.ai offers a revolutionary AI-driven call center solution with advanced multilingual support and seamless CRM integration
           </p>
           {/* <div className="mt-10 flex items-center justify-center gap-x-6">
             <button className="bg-indigo-500 text-white px-8 py-3 rounded-lg hover:bg-indigo-600 transition-colors inline-flex items-center">

@@ -6,17 +6,17 @@ const tiers = [
     name: 'Starter',
     price: 0,
     features: [
-      '10K  calls/month',
+      '1000 calls/month',
       'Basic models access',
-      'Community support',
+      'Basic support',
       'Basic analytics',
     ],
   },
   {
     name: 'Pro',
-    price: 49,
+    price: 99,
     features: [
-      '100k calls/month',
+      '10k calls/month',
       'Advanced models access',
       'Priority support',
       'Advanced analytics',
